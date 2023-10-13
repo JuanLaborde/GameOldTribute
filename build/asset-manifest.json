@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69241971.css",
+    "main.js": "/static/js/main.c6c8744f.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Monsters-section.jpg": "/static/media/Monsters-section.99baae30947b7754bf8c.jpg",
+    "static/media/character-ff.jpg": "/static/media/character-ff.e3998de4004b76bd1398.jpg",
+    "static/media/creed-section.gif": "/static/media/creed-section.db824b4eaf51e2c89c0d.gif",
+    "static/media/histroy-section-ff.jpg": "/static/media/histroy-section-ff.3fe5db5d9d47580578e8.jpg",
+    "static/media/Characters-section.jpg": "/static/media/Characters-section.667d63cd9788d530e0bd.jpg",
+    "static/media/Masters-section.jpg": "/static/media/Masters-section.06303139862ba6e9df0f.jpg",
+    "static/media/Games-section.jpg": "/static/media/Games-section.ae2dad4e492f523a2f61.jpg",
+    "static/media/asesinos.jpg": "/static/media/asesinos.326ba726396cad182f0f.jpg",
+    "static/media/games-sectionAC.jpg": "/static/media/games-sectionAC.27bafcfc587df6aad359.jpg",
+    "static/media/civilization-section.jpg": "/static/media/civilization-section.53bb892ae4495b7430d6.jpg",
+    "static/media/virus.jpg": "/static/media/virus.36cb82bc8170e73faf30.jpg",
+    "static/media/Town.jpg": "/static/media/Town.be6ebfffa4bce88107ef.jpg",
+    "static/media/Spencer-manor.jpg": "/static/media/Spencer-manor.5380178aa56f3a96e216.jpg",
+    "static/media/FF-contact.png": "/static/media/FF-contact.7c549566a085aa2eebf0.png",
+    "static/media/RE-contact.png": "/static/media/RE-contact.38812b4683458a60428b.png",
+    "static/media/fog-1.png": "/static/media/fog-1.f941d9347efb2a3e7d1d.png",
+    "static/media/fog-2.png": "/static/media/fog-2.8aeda6af6c952275e3de.png",
+    "static/media/cult.gif": "/static/media/cult.4c4ffbb0bc09dff56fc6.gif",
+    "static/media/SH-Monster-SL.jpg": "/static/media/SH-Monster-SL.3110bc0a5da3e1fe1585.jpg",
+    "static/media/TemplarSection.jpg": "/static/media/TemplarSection.9cbf00033485826d16ca.jpg",
+    "static/media/window.png": "/static/media/window.880e08c2bd908d14a8a7.png",
+    "static/media/history-section.jpg": "/static/media/history-section.34cdf4a2eda9106281dd.jpg",
+    "static/media/RE2Police.jpg": "/static/media/RE2Police.27ffb2c57aba88c0fec1.jpg",
+    "index.html": "/index.html",
+    "main.69241971.css.map": "/static/css/main.69241971.css.map",
+    "main.c6c8744f.js.map": "/static/js/main.c6c8744f.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69241971.css",
+    "static/js/main.c6c8744f.js"
+  ]
+}
