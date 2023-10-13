@@ -20,7 +20,7 @@ const HomePage = (props) => {
     }, []);
     return (
         <main className="showcase">
-            <video src="ImagesVideos//videos/Homevideo.mp4" autoPlay loop muted />
+            <video src="ImagesVideos/videos/Homevideo.mp4" autoPlay loop muted />
             <div className="text-principal-page">
                 <h2 className="Text1">OLD GAME <span>TRIBUTE</span></h2>
                 <h3 className="Text2">Games that marked your childhood</h3>

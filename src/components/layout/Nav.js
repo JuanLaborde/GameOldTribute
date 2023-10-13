@@ -13,7 +13,6 @@ const Nav = (props) => {
                     <li className="underline-hover-efect"><NavLink activeclassname="activo" to="/residentevil">Resident Evil</NavLink></li>
                     <li className="underline-hover-efect"><NavLink activeclassname="activo" to="/silenthill">Silent Hill</NavLink></li>
                     <li className="underline-hover-efect"><NavLink activeclassname="activo" to="/contact">Contact</NavLink></li>
-                    <li className="underline-hover-efect"><NavLink activeclassname="activo" to="/news">News</NavLink></li>
                 </ul>
             </div>
         </nav>
