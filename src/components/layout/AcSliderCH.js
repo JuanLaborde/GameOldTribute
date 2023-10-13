@@ -13,7 +13,7 @@ const SliderAC = () => {
             "https://c4.wallpaperflare.com/wallpaper/17/655/811/arno-dorian-assassin-assassins-creed-unity-paris-wallpaper-preview.jpg",
             "https://i.ytimg.com/vi/P5c9YHz7Kg0/maxresdefault.jpg",
             "https://steamuserimages-a.akamaihd.net/ugc/936054109931115374/526E7FAA9B87F604DE76A404BC364EF483ABCB46/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-            "https://i1.wp.com/www.gaymer.es/es/wp-content/uploads/2019/02/kassandra-3840x2160-assassins-creed-odyssey-4k-15456.jpg?fit=3840%2C2160&ssl=1",
+            "https://cdn.vox-cdn.com/thumbor/xqw1YzPMRXje1Bj8N-plAXDaUcE=/0x0:3806x2142/920x613/filters:focal(1463x45:2071x653):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61706841/Screen_Shot_2018_09_10_at_12.07.18_PM.0.png",
             "https://www.gamers.de/wp-content/uploads/2020/07/3af26938-6c03-4276-9f42-208f53d6f136-eivor-assassins-creed-valhalla-poster-uhdpapercom-4k-71968-scaled.jpg",
         ],
         [
